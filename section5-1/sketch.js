@@ -20,7 +20,6 @@ function setup(){
     let x = 100 + cos(theta) * 50;
     let y = 100 + sin(theta) * 50;
     star(x+45, y, 10);
-    color(0,300,0);
   }
 }
 
